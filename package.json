@@ -1,0 +1,18 @@
+{
+  "name": "jiang-cli",
+  "version": "1.0.0",
+  "description": "jiang脚手架",
+  "main": "cli.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jiang",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9"
+  },
+  "devDependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
