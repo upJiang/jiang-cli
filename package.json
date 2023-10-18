@@ -1,18 +1,25 @@
 {
-  "name": "jiang-cli",
+  "name": "junfeng-cli",
   "version": "1.0.0",
   "description": "jiang脚手架",
   "main": "cli.js",
-  "bin": "cli.js",
+  "bin": {
+    "jiang": "./bin/cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jiang",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.1.9"
-  },
-  "devDependencies": {
-    "inquirer": "^8.2.0"
+    "axios": "^1.5.1",
+    "chalk": "4",
+    "commander": "^11.1.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.9",
+    "figlet": "^1.6.0",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^8.2.0",
+    "ora": "4"
   }
 }
