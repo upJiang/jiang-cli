@@ -1,6 +1,6 @@
 {
-  "name": "junfeng-cli",
-  "version": "1.0.1",
+  "name": "jiang-cli",
+  "version": "1.0.2",
   "description": "jiang脚手架",
   "main": "cli.js",
   "bin": {
@@ -23,7 +23,7 @@
     "ora": "4"
   },
   "keywords": [
-    "cli", 
+    "cli",
     "vue",
     "download-git-repo"
   ]
