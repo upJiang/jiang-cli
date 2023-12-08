@@ -1,6 +1,6 @@
 {
   "name": "jiang-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "jiang脚手架",
   "main": "cli.js",
   "bin": {
